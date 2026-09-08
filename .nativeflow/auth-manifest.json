@@ -1,0 +1,23 @@
+{
+  "_readme": "NativeFlow auth-codegen manifest. Do not edit by hand. Hand-edits made after download are not tracked here — once the ZIP leaves Studio there is no round-trip channel back. This file only tracks EXPORT-vs-EXPORT regressions, plus dependency and server-artifact ownership needed by the disable path.",
+  "version": 1,
+  "previousProvider": null,
+  "previousEnabled": false,
+  "authManagedDependencies": [],
+  "serverArtifacts": {
+    "rlsMigrations": [],
+    "accessPolicyJson": null
+  },
+  "files": {
+    "lib/auth/types.ts": "1f759f40a2773cae",
+    "lib/auth/store.ts": "272d4e6534e8a087",
+    "lib/auth/useAuth.ts": "04ec73e750ea80e1",
+    "lib/auth/secureStorage.ts": "cd64abb1e92370b7",
+    "lib/auth/apiClient.ts": "54ededed9b9ce77b",
+    "lib/auth/AuthGate.tsx": "bf4c3770dd80c722",
+    "lib/auth/DeepLinkGate.ts": "d86235038e1e1ead",
+    "lib/auth/offlineQueue.ts": "d6ee0d584aedd52e",
+    "components/Can.tsx": "0eabefde4f3a9d90"
+  },
+  "enforcementAnnotations": {}
+}
